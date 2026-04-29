@@ -88,12 +88,27 @@ Main cleaning and preparation steps performed in SQL & Power Query:
 ---
 
 ## Exploratory Data Analysis (EDA)
-Using the clean SQL views, the Power BI dashboard explores:
-- **Executive Summary:** Bottom 10 routes for margin performance and SLA failures.
-- **Market Volatility:** A highly dense scatter plot (86k+ points) visualizing Profit at Risk, alongside Revenue Concentration by top clients.
-- **Asset Integrity:** Scatter trend analysis comparing service life to maintenance burden, and real-time conditional formatting for "Warning" status trucks.
-- **Human Capital:** Dual-axis analysis comparing driver tenure against safety indexes and fuel efficiency (MPG).
 
+Using the clean SQL views, the Power BI dashboard explores three core operational areas:
+
+### 1. Executive Summary
+Focuses on financial health, highlighting the bottom 10 routes for margin performance and critical Service Level Agreement (SLA) failures.
+
+![Executive Summary Dashboard](images/executive summary.png)
+
+---
+
+### 2. Market Volatility
+Features a highly dense scatter plot (86k+ data points) visualizing Profit at Risk based on fuel price sensitivity, alongside Revenue Concentration by top clients.
+
+![Market Volatility Dashboard](images/market volatility.png)
+
+---
+
+### 3. Asset Integrity
+Showcases a scatter trend analysis comparing vehicle service life to maintenance burden, utilizing real-time conditional formatting to highlight "Warning" status trucks.
+
+![Asset Integrity Dashboard](images/asset lifecycle.png)
 ---
 
 ## Research Questions & Key Findings
