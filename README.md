@@ -94,21 +94,21 @@ Using the clean SQL views, the Power BI dashboard explores three core operationa
 ### 1. Executive Summary
 Focuses on financial health, highlighting the bottom 10 routes for margin performance and critical Service Level Agreement (SLA) failures.
 
-![Executive Summary Dashboard](images/executive summary.png)
+![Executive Summary Dashboard](images/executive_summary.png)
 
 ---
 
 ### 2. Market Volatility
 Features a highly dense scatter plot (86k+ data points) visualizing Profit at Risk based on fuel price sensitivity, alongside Revenue Concentration by top clients.
 
-![Market Volatility Dashboard](images/market volatility.png)
+![Market Volatility Dashboard](images/market_volatility.png)
 
 ---
 
 ### 3. Asset Integrity
 Showcases a scatter trend analysis comparing vehicle service life to maintenance burden, utilizing real-time conditional formatting to highlight "Warning" status trucks.
 
-![Asset Integrity Dashboard](images/asset lifecycle.png)
+![Asset Integrity Dashboard](images/asset_integrity.png)
 ---
 
 ## Research Questions & Key Findings
