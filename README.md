@@ -148,8 +148,8 @@ Typical business questions answered by this dashboard:
 *Aspiring Data Analyst – SQL & BI*  
 
 - 📧 Email: ahmadreza6122@gmail.com  
-- 🔗 LinkedIn: [www.linkedin.com/in/ahmad-reza-econ](https://www.linkedin.com/in/ahmad-reza-econ)  
-- 🔗 GitHub:Ah, I completely understand now! My apologies for that mix-up. You want a README built for the **Fleet Management & Risk Dashboard** that we just spent time building together, using that exact same professional layout from your Zepto example. 
+- 🔗 LinkedIn: [[www.linkedin.com/in/ahmad-reza-econ](https://www.linkedin.com/in/ahmad-reza-econ)] 
+- 🔗 GitHub:.
 
 Here is the custom GitHub README for your **SQL + Power BI Fleet Risk Project**, highlighting the exact business problems we solved on those three dashboard pages.
 
